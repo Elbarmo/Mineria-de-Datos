@@ -1,3 +1,21 @@
+# Data-Mining
+## Final Project from the Data Mining course
+Find here the final project for the Data Mining course
+### First Project
+The first project consisted in, given the answers and final scores of a set of students in multiple choice exam, deduce the right answers for each question. Two approaches are taken, a genetic algorithm and a regression method, both obtaining similar results.
+### Files in the First Project
+The files in the First Project are:
+1.  TareaFinal1.pdf: Report of the first project (in Spanish), contains the description of the first algorithm and the regression method. THe results and the conclusions are comented.
+2.  Q1251617.RData: Data regarding the answers of the students and their answers to the multiple choice exam (5 options) and their scores.
+3. Tareabreve.R: R script with the algorithm and the regression method.
+### Second Project
+In this project a model was created to classify seeds according to features of their kernels such as the width or the lenght. Two techniques were attempted: a classification tree and a linear discriminant analysis. 
+### Second Project Files
+The files in the second project are:
+1.  TareaFinal2.pdf: Report of the first project (in Spanish), contains the description of the used functions, and appendixes with more models.
+2.  data.txt: Data of the kernel seeds.
+3.  TareaFinalscript.R: R script with the implementation of the different models.
+
 # Mineria-de-Datos
 ## Trabajos Finales de la Asignatura Minería de Datos
 Aquí se encuetran los trabajos finales realizados para la asignatura de Minería de Datos. 
